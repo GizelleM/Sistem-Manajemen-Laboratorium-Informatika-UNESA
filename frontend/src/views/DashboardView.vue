@@ -5,7 +5,7 @@
       <div class="page-heading">
         <GraduationCap class="heading-icon" />
         <div>
-          <h1>Selamat datang, {{ firstName }}! <Smile class="inline-icon" /></h1>
+          <h1>Selamat Datang, {{ firstName }}! <Smile class="inline-icon" /></h1>
           <p>Ringkasan aktivitas Lab Anda hari ini.</p>
         </div>
       </div>
