@@ -3,7 +3,7 @@
     <div class="page-heading">
       <Building2 class="heading-icon" />
       <div>
-        <h1>Booking Ruangan Lab</h1>
+        <h1>Booking Ruangan Laboratorium</h1>
         <p>Pesan ruangan laboratorium untuk kebutuhan kuliah atau tugas akhir.</p>
       </div>
     </div>
