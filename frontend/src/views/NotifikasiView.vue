@@ -7,7 +7,7 @@
           <Bell :size="16" /> Semua Notifikasi
         </div>
         <button class="btn btn-outline btn-sm" @click="tandaiSemua" :disabled="data.unreadCount === 0">
-          <CheckCheck :size="14" /> Tandai semua sudah dibaca
+          <CheckCheck :size="14" /> Tandai semua telah dibaca
         </button>
       </div>
 
