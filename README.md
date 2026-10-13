@@ -79,7 +79,7 @@ Di Windows dengan XAMPP, jika `mysql` tidak dikenali, pakai path lengkap: `C:\xa
 ```bash
 cd backend
 composer install
-cp .env.example .env          # Windows CMD/PowerShell: copy .env.example .env
+cp .env.example .env   
 php artisan key:generate
 ```
 
